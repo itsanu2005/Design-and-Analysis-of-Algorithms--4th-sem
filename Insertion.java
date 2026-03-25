@@ -23,3 +23,4 @@ public class Insertion {
         sc.close();
     }
 }
+// time complexity = O(n^2) 
